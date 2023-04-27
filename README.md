@@ -1,5 +1,13 @@
 # House_Price_Prediction_Using_ML
-In this Project I have implemented 3 regression techniques namely - Linear Regression , KNN and Random Forest Regression on  a housing dataset to predict the price of a House and then evaluated the models on the metrics like mean absolute error,mean square error ,root mean square error and r2 score.
+In this Project I have implemented 3 regression techniques namely -
+a) Linear Regression 
+b) KNN 
+c) Random Forest Regression on  a housing dataset to predict the price of a House and then evaluated the models on the metrics like-
+a) mean absolute error
+b) mean square error 
+c) root mean square error 
+d) r2 score.
+
 Steps of implementation:
 1) Importing Libraries
 2) Importing dataset
